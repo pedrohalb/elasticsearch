@@ -1,0 +1,14 @@
+/home/pedro/Elasticsearch/backend_autocomplete/src/main/java/com/elasticsearch/search/service/SearchService.java
+/home/pedro/Elasticsearch/backend_autocomplete/src/main/java/com/elasticsearch/search/model/SuggestionPair.java
+/home/pedro/Elasticsearch/backend_autocomplete/src/main/java/com/elasticsearch/search/SearchApplication.java
+/home/pedro/Elasticsearch/backend_autocomplete/target/generated-sources/openapi/src/main/java/com/elasticsearch/search/api/model/ResultHits.java
+/home/pedro/Elasticsearch/backend_autocomplete/target/generated-sources/openapi/src/main/java/com/elasticsearch/search/api/facade/ApiUtil.java
+/home/pedro/Elasticsearch/backend_autocomplete/target/generated-sources/openapi/src/main/java/com/elasticsearch/search/api/model/Error.java
+/home/pedro/Elasticsearch/backend_autocomplete/target/generated-sources/openapi/src/main/java/com/elasticsearch/search/api/facade/SearchApi.java
+/home/pedro/Elasticsearch/backend_autocomplete/target/generated-sources/openapi/src/main/java/com/elasticsearch/search/api/model/Result.java
+/home/pedro/Elasticsearch/backend_autocomplete/target/generated-sources/openapi/src/main/java/com/elasticsearch/search/api/model/SuggestionPair.java
+/home/pedro/Elasticsearch/backend_autocomplete/src/main/java/com/elasticsearch/search/processing/TreatQuery.java
+/home/pedro/Elasticsearch/backend_autocomplete/src/main/java/com/elasticsearch/search/processing/BuildQuery.java
+/home/pedro/Elasticsearch/backend_autocomplete/target/generated-sources/openapi/src/main/java/com/elasticsearch/search/api/model/ResultAutocomplete.java
+/home/pedro/Elasticsearch/backend_autocomplete/src/main/java/com/elasticsearch/search/controller/SearchController.java
+/home/pedro/Elasticsearch/backend_autocomplete/src/main/java/com/elasticsearch/search/domain/EsClient.java
