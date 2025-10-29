@@ -6,6 +6,7 @@
 [![React](https://img.shields.io/badge/React-18-61dafb?style=for-the-badge&logo=react)](https://react.dev/)
 
 ---
+Acesse o site: https://elastic-front.vercel.app
 
 ![Preview InfiniteSearch](frontend/public/preview.jpeg)
 
