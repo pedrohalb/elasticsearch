@@ -7,7 +7,7 @@
 
 ---
 
-![Preview InfiniteSearch](frontend/public/preview.png)
+![Preview InfiniteSearch](frontend/public/preview.jpeg)
 
 ---
 
